@@ -92,8 +92,8 @@ void loop()
 # Output:
 
 
+<img width="1919" height="858" alt="image" src="https://github.com/user-attachments/assets/e95041ae-4a23-4ac2-a7d7-9ad75c364039" />
 
-![Uploading image.png…]()
 
 # Result:
 The PIR sensor successfully detected motion and triggered the Arduino to turn ON the built-in LED. The LED remained OFF when no motion was present, confirming correct circuit and code functionality.
